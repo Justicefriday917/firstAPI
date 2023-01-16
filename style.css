@@ -1,0 +1,39 @@
+.btn{
+    width: 100px;
+    height: 30px;
+    margin-bottom: 50px;
+}
+.container{
+    text-align: center;
+    justify-content: space-around;
+    position: relative;
+}
+.text, .text1{
+    padding: 10px;
+    margin-right: 10px;
+}
+.abs{
+    position: absolute;
+    z-index: 1;
+    transform: rotate(50%, 50%);
+    top: 35%;
+    left: 48%;
+    align-items: center;
+    color: white;
+    background-color: black;
+}
+.abs1{
+    position: absolute;
+    z-index: 1;
+    transform: rotate(50%, 50%);
+    top: 80%;
+    left: 48%;
+    align-items: center;
+    color: white;
+    background-color: black;
+
+
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
