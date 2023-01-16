@@ -17,23 +17,26 @@
     z-index: 1;
     transform: rotate(50%, 50%);
     top: 35%;
-    left: 48%;
+    left: 40%;
     align-items: center;
     color: white;
-    background-color: black;
+    text-shadow: 2px 3px 3px black;
+    width: 100px;
+    
+
 }
 .abs1{
     position: absolute;
     z-index: 1;
     transform: rotate(50%, 50%);
     top: 80%;
-    left: 48%;
+    left: 40%;
     align-items: center;
     color: white;
-    background-color: black;
-
-
+    width: 100px;
+    text-shadow: 2px 3px 3px black;
 }
+
 body{
     font-family: 'Poppins', sans-serif;
 }
